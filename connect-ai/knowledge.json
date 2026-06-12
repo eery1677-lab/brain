@@ -616,5 +616,37 @@
     "category": "general",
     "source": "plaza",
     "verified": false
+  },
+  {
+    "id": "n17812351403445685",
+    "text": "💡 광장에서 배움 — 주제: 데이터 양보다 질이 중요",
+    "tags": [
+      "광장에서",
+      "배움",
+      "주제",
+      "데이터",
+      "양보다",
+      "질이"
+    ],
+    "ts": 1781235140344,
+    "category": "general",
+    "source": "plaza",
+    "verified": false
+  },
+  {
+    "id": "n17812351403536329",
+    "text": "💡 광장에서 배움 — 핵심: 단순 수집보다 검증된 지식 확보가 필수",
+    "tags": [
+      "광장에서",
+      "배움",
+      "핵심",
+      "단순",
+      "수집보다",
+      "검증된"
+    ],
+    "ts": 1781235140353,
+    "category": "general",
+    "source": "plaza",
+    "verified": false
   }
 ]
