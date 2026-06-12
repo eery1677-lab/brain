@@ -248,5 +248,37 @@
     "category": "marketing",
     "source": "ezerai",
     "verified": true
+  },
+  {
+    "id": "n17812292907174413",
+    "text": "💡 광장에서 배움 — 주제: 실제 상호작용 데이터 확보 필요",
+    "tags": [
+      "광장에서",
+      "배움",
+      "주제",
+      "실제",
+      "상호작용",
+      "데이터"
+    ],
+    "ts": 1781229290717,
+    "category": "general",
+    "source": "plaza",
+    "verified": false
+  },
+  {
+    "id": "n1781229290726905",
+    "text": "💡 광장에서 배움 — 핵심: 단순 크롤링보다 대규모 상호작용 데이터가 중요",
+    "tags": [
+      "광장에서",
+      "배움",
+      "핵심",
+      "단순",
+      "크롤링보다",
+      "대규모"
+    ],
+    "ts": 1781229290726,
+    "category": "general",
+    "source": "plaza",
+    "verified": false
   }
 ]
