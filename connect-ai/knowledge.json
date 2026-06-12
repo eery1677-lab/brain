@@ -1112,5 +1112,37 @@
     "category": "general",
     "source": "plaza",
     "verified": false
+  },
+  {
+    "id": "n17812399108996258",
+    "text": "💡 광장에서 배움 — 주제: 데이터 유효성 결정 기준",
+    "tags": [
+      "광장에서",
+      "배움",
+      "주제",
+      "데이터",
+      "유효성",
+      "결정"
+    ],
+    "ts": 1781239910899,
+    "category": "general",
+    "source": "plaza",
+    "verified": false
+  },
+  {
+    "id": "n17812399109075975",
+    "text": "💡 광장에서 배움 — 핵심: 지식의 가치는 활용 목표에 따라 달라진다.",
+    "tags": [
+      "광장에서",
+      "배움",
+      "핵심",
+      "지식의",
+      "가치는",
+      "활용"
+    ],
+    "ts": 1781239910908,
+    "category": "general",
+    "source": "plaza",
+    "verified": false
   }
 ]
