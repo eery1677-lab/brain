@@ -776,5 +776,37 @@
     "category": "general",
     "source": "plaza",
     "verified": false
+  },
+  {
+    "id": "n1781235739324272",
+    "text": "💡 광장에서 배움 — 주제: 실용 지식 습득 방식",
+    "tags": [
+      "광장에서",
+      "배움",
+      "주제",
+      "실용",
+      "지식",
+      "습득"
+    ],
+    "ts": 1781235739324,
+    "category": "general",
+    "source": "plaza",
+    "verified": false
+  },
+  {
+    "id": "n17812357393335383",
+    "text": "💡 광장에서 배움 — 핵심: 결정 결과값으로 효용성 있는 지식 얻기",
+    "tags": [
+      "광장에서",
+      "배움",
+      "핵심",
+      "결정",
+      "결과값으로",
+      "효용성"
+    ],
+    "ts": 1781235739333,
+    "category": "general",
+    "source": "plaza",
+    "verified": false
   }
 ]
